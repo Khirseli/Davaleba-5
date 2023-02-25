@@ -1,0 +1,32 @@
+/* Header */
+header{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 40.89px 117px 100.26px 69px;
+    background-color: #F5F5F5;
+}
+.Header_logo{
+    vertical-align: middle;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 312px;
+}
+li{
+    display: inline-block;
+    font-family: 'Nerko One';
+    font-weight: 400;
+    font-size: 32px;
+    color: #0F5009;
+}
+.shop_class{
+    margin: 0 83px;
+}
+.about_class{
+    margin-right: 83px;
+}
+.blog_class{
+    color: #FA1A35;
+}
+
