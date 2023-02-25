@@ -81,4 +81,30 @@ h2{
     text-align: center;
     color: #1F6519;
 }
+/* Footer */
+footer{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #1F6519;
+    padding: 76.96px 118px 81px 109.62px;
+}
+.footer_p{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #F4F4F1;
+    display: inline-block;
+}
+.footer_p2{
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-left: 617.53px;
+}
+
+
 
