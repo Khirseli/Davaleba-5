@@ -29,4 +29,34 @@ li{
 .blog_class{
     color: #FA1A35;
 }
+/* Section */
+section{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 110px 57px 154px 69px;
+    background-color: #1F6519;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+    width: 448px;
+    color: #FFFFFF; 
+    margin-left: 96px;
+}
+h3{
+    margin-left: 114px;
+    font-family: 'Nerko One';
+    font-size: 36px;
+    font-weight: 400;
+}
+p{
+    margin-top: 35px;
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+
 
